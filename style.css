@@ -61,20 +61,20 @@
     font-size: 20px;
 }
 .first img{
-    height: 400px;
-    width: 400px;
+    height: 420px;
+    width: 520px;
     padding-bottom: 100px;
 }
 .second{
     margin-left: 100px;
-    margin-top: 200px;
+    margin-top: 185px;
 }
 .second div{
-    padding: 25px;
+    padding: 35px;
 }
 
 .second h1{
-    font-size: 45px;
+    font-size: 35px;
 }
 .project{
     margin-top: 200px;
@@ -133,4 +133,19 @@
 }
 .box-3{
     display: flex;
+}
+.small-container{
+    display: flex;
+    margin: 80px;
+}
+.small-container div{
+    height: 200px;
+    width: 200px;
+    margin-left: 100px;
+    list-style: none;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
 }
